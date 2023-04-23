@@ -16,6 +16,5 @@ Note that when you want to run the query on a particular dataset, you need to `r
 
 
 
-## OrientDB 
 
 ## ArangoDB
